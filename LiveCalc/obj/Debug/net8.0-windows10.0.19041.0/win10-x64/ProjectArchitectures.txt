@@ -1,0 +1,1 @@
+C:\Users\krist\Documents\TARge23Mobile\MauiApp\LiveCalc\SciCalc.csproj;x64
